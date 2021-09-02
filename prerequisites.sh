@@ -1,3 +1,7 @@
+sudo apt install -y --fix-missing
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install -y python3-pip
 pip3 install weasyprint
 pip3 install --no-cache-dir -I pillow
 sudo apt install -y unzip
