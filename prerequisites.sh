@@ -3,6 +3,7 @@ sudo apt update -y
 sudo apt upgrade -y
 sudo apt install -y python3-pip
 sudo apt install -y libsdl-pango-dev
+sudo apt-get install -y libpango-1.0-0
 pip3 install weasyprint
 pip3 install --no-cache-dir -I pillow
 sudo apt install -y unzip
